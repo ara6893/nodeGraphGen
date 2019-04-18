@@ -1,0 +1,23 @@
+{
+  "name": "nodegraphgen",
+  "version": "1.0.0",
+  "description": "A png generator for random node graph images",
+  "main": "graphGen.js",
+  "dependencies": {
+    "cytoscape": "^3.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ara6893/nodeGraphGen.git"
+  },
+  "author": "ara6893",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ara6893/nodeGraphGen/issues"
+  },
+  "homepage": "https://github.com/ara6893/nodeGraphGen#readme"
+}
